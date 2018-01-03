@@ -1,0 +1,16 @@
+- Ponoviti do sada uradeno
+- Dzoker znakovi
+- [Unesite naziv grada:]
+- 'Is Null' i 'Is Not Null'
+- Date : Year(), Month(), Day(), DateDiff("yyyy"/"m"/"d", DatumOd, DatumDo)
+- Grupisanje po koloni
+
+
+
+1. Prikazati sve polaznik koji dolaze iz Mostara ili Sarajeva a nemaju unesen kontakt telefon.
+2. Prikazati polaznik kojima Ime završava slovom 'A' ili Prezime pocinje slovom 'S'.
+3. Prikazati sve polaznik koji su rodeni 1985 godine.
+4. Prikazati sve termine kurseva na kojima je cijena kursa bila visa od 200 KM.
+5. Prikazati 3 polaznika koja najviše duguju prema centru.
+
+6. Prikazati ukupni prihod centra od svakog kursa posebno.
